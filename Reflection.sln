@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2F113149-A01B-4506-8E57-19476A5F11B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacRobert.Reflection", "src\Reflection\MacRobert.Reflection.csproj", "{38123857-F017-464F-9869-DC0B9CAB206C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38123857-F017-464F-9869-DC0B9CAB206C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38123857-F017-464F-9869-DC0B9CAB206C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38123857-F017-464F-9869-DC0B9CAB206C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38123857-F017-464F-9869-DC0B9CAB206C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38123857-F017-464F-9869-DC0B9CAB206C} = {2F113149-A01B-4506-8E57-19476A5F11B4}
+	EndGlobalSection
+EndGlobal
