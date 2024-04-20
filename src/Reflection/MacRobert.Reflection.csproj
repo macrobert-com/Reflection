@@ -8,7 +8,6 @@
 
   <PropertyGroup>
     <!-- NuGet properties -->
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>MacRobert.Reflection</PackageId>
     <PackageDescription>Utilities for reflecting into assemblies.</PackageDescription>
     <IncludeSymbols>True</IncludeSymbols>
